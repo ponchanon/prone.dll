@@ -1,0 +1,129 @@
+M:\My_Code\VS10\CLASS\PRone\PRone\bin\Debug\PRone.dll
+M:\My_Code\VS10\CLASS\PRone\PRone\bin\Debug\PRone.pdb
+M:\My_Code\VS10\CLASS\PRone\PRone\bin\Debug\Microsoft.Office.Interop.Excel.dll
+M:\My_Code\VS10\CLASS\PRone\PRone\bin\Debug\office.dll
+M:\My_Code\VS10\CLASS\PRone\PRone\bin\Debug\Microsoft.Vbe.Interop.dll
+M:\My_Code\VS10\CLASS\PRone\PRone\bin\Debug\Microsoft.Office.Interop.Excel.xml
+M:\My_Code\VS10\CLASS\PRone\PRone\bin\Debug\office.xml
+M:\My_Code\VS10\CLASS\PRone\PRone\obj\Debug\PRone.csprojResolveAssemblyReference.cache
+M:\My_Code\VS10\CLASS\PRone\PRone\obj\Debug\PRone.dll
+M:\My_Code\VS10\CLASS\PRone\PRone\obj\Debug\PRone.pdb
+L:\My_Code\VS10\CLASS\PRone\PRone\bin\Debug\PRone.dll
+L:\My_Code\VS10\CLASS\PRone\PRone\bin\Debug\PRone.pdb
+L:\My_Code\VS10\CLASS\PRone\PRone\obj\Debug\ResolveAssemblyReference.cache
+L:\My_Code\VS10\CLASS\PRone\PRone\obj\Debug\PRone.dll
+L:\My_Code\VS10\CLASS\PRone\PRone\obj\Debug\PRone.pdb
+P:\My_Code\VS10\CLASS\PRone\PRone\bin\Debug\PRone.dll
+P:\My_Code\VS10\CLASS\PRone\PRone\bin\Debug\PRone.pdb
+P:\My_Code\VS10\CLASS\PRone\PRone\obj\Debug\PRone.dll
+P:\My_Code\VS10\CLASS\PRone\PRone\obj\Debug\PRone.pdb
+P:\My_Code\VS10\CLASS\PRone_20131031\PRone\bin\Debug\PRone.dll
+P:\My_Code\VS10\CLASS\PRone_20131031\PRone\bin\Debug\PRone.pdb
+P:\My_Code\VS10\CLASS\PRone_20131031\PRone\obj\Debug\PRone.dll
+P:\My_Code\VS10\CLASS\PRone_20131031\PRone\obj\Debug\PRone.pdb
+P:\My_Code\VS10\CLASS\PRone_20140303\PRone\bin\Debug\PRone.dll
+P:\My_Code\VS10\CLASS\PRone_20140303\PRone\bin\Debug\PRone.pdb
+P:\My_Code\VS10\CLASS\PRone_20140303\PRone\obj\Debug\PRone.dll
+P:\My_Code\VS10\CLASS\PRone_20140303\PRone\obj\Debug\PRone.pdb
+P:\Tiger\My_Code\VS10\CLASS\PRone_20150302\PRone\bin\Debug\PRone.dll
+P:\Tiger\My_Code\VS10\CLASS\PRone_20150302\PRone\bin\Debug\PRone.pdb
+P:\Tiger\My_Code\VS10\CLASS\PRone_20150302\PRone\obj\Debug\PRone.dll
+P:\Tiger\My_Code\VS10\CLASS\PRone_20150302\PRone\obj\Debug\PRone.pdb
+P:\Tiger\My_Code\VS13\CLASS\PRone_20150617\PRone\bin\Debug\PRone.dll
+P:\Tiger\My_Code\VS13\CLASS\PRone_20150617\PRone\bin\Debug\PRone.pdb
+P:\Tiger\My_Code\VS13\CLASS\PRone_20150617\PRone\obj\Debug\PRone.dll
+P:\Tiger\My_Code\VS13\CLASS\PRone_20150617\PRone\obj\Debug\PRone.pdb
+P:\Tiger\My_Code\VS13\CLASS\PRone_20150617\PRone\obj\Debug\PRone.csprojResolveAssemblyReference.cache
+P:\Tiger\My_Code\VS13\CLASS\PRone_20150831\PRone\bin\Debug\PRone.dll
+P:\Tiger\My_Code\VS13\CLASS\PRone_20150831\PRone\bin\Debug\PRone.pdb
+P:\Tiger\My_Code\VS13\CLASS\PRone_20150831\PRone\obj\Debug\PRone.dll
+P:\Tiger\My_Code\VS13\CLASS\PRone_20150831\PRone\obj\Debug\PRone.pdb
+P:\Tiger\My_Code\VS13\CLASS\PRone_20151104\PRone\bin\Debug\PRone.dll
+P:\Tiger\My_Code\VS13\CLASS\PRone_20151104\PRone\bin\Debug\PRone.pdb
+P:\Tiger\My_Code\VS13\CLASS\PRone_20151104\PRone\obj\Debug\PRone.dll
+P:\Tiger\My_Code\VS13\CLASS\PRone_20151104\PRone\obj\Debug\PRone.pdb
+P:\Tiger\My_Code\VS13\CLASS\PRone_20151115\PRone\bin\Debug\PRone.dll
+P:\Tiger\My_Code\VS13\CLASS\PRone_20151115\PRone\bin\Debug\PRone.pdb
+P:\Tiger\My_Code\VS13\CLASS\PRone_20151115\PRone\obj\Debug\PRone.csprojResolveAssemblyReference.cache
+P:\Tiger\My_Code\VS13\CLASS\PRone_20151115\PRone\obj\Debug\PRone.dll
+P:\Tiger\My_Code\VS13\CLASS\PRone_20151115\PRone\obj\Debug\PRone.pdb
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PRone\bin\Debug\PRone.dll
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PRone\bin\Debug\PRone.pdb
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PRone\obj\Debug\PRone.csprojResolveAssemblyReference.cache
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PRone\obj\Debug\PRone.dll
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PRone\obj\Debug\PRone.pdb
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PRone\bin\Debug\PRone.dll
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PRone\bin\Debug\PRone.pdb
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PRone\obj\Debug\PRone.csprojResolveAssemblyReference.cache
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PRone\obj\Debug\PRone.dll
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PRone\obj\Debug\PRone.pdb
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\bin\Debug\PRone.dll
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\bin\Debug\PRone.pdb
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\bin\Debug\MySql.Data.dll
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\obj\Debug\PRone.dll
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\obj\Debug\PRone.pdb
+D:\Google Drive\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\bin\Debug\PRone.dll
+D:\Google Drive\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\bin\Debug\PRone.pdb
+D:\Google Drive\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\bin\Debug\MySql.Data.dll
+D:\Google Drive\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\obj\Debug\PRone.csprojResolveAssemblyReference.cache
+D:\Google Drive\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\obj\Debug\PRone.csproj.CoreCompileInputs.cache
+D:\Google Drive\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\obj\Debug\PRone.dll
+D:\Google Drive\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PRone\obj\Debug\PRone.pdb
+D:\Users\pronecse\Rone\Projects\VS2017\CLASS\PRone_20180102 - Added MySQL Connection\PRone\bin\Debug\PRone.dll
+D:\Users\pronecse\Rone\Projects\VS2017\CLASS\PRone_20180102 - Added MySQL Connection\PRone\bin\Debug\PRone.pdb
+D:\Users\pronecse\Rone\Projects\VS2017\CLASS\PRone_20180102 - Added MySQL Connection\PRone\obj\Debug\PRone.csprojResolveAssemblyReference.cache
+D:\Users\pronecse\Rone\Projects\VS2017\CLASS\PRone_20180102 - Added MySQL Connection\PRone\obj\Debug\PRone.dll
+D:\Users\pronecse\Rone\Projects\VS2017\CLASS\PRone_20180102 - Added MySQL Connection\PRone\obj\Debug\PRone.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PRone\bin\Debug\PRone.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PRone\bin\Debug\PRone.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PRone\obj\Debug\PRone.csprojAssemblyReference.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PRone\obj\Debug\PRone.csproj.CoreCompileInputs.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PRone\obj\Debug\PRone.csproj.CopyComplete
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PRone\obj\Debug\PRone.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PRone\obj\Debug\PRone.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20190911\PRone\bin\Debug\PRone.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20190911\PRone\bin\Debug\PRone.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20190911\PRone\obj\Debug\PRone.csprojAssemblyReference.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20190911\PRone\obj\Debug\PRone.csproj.CoreCompileInputs.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20190911\PRone\obj\Debug\PRone.csproj.CopyComplete
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20190911\PRone\obj\Debug\PRone.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20190911\PRone\obj\Debug\PRone.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200202\PRone\obj\Debug\PRone.csprojAssemblyReference.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200202\PRone\bin\Debug\PRone.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200202\PRone\bin\Debug\PRone.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200202\PRone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200202\PRone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200202\PRone\obj\Debug\PRone.csproj.CopyComplete
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200202\PRone\obj\Debug\PRone.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200202\PRone\obj\Debug\PRone.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\bin\Debug\PRone.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\bin\Debug\PRone.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\bin\Debug\Npgsql.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\obj\Debug\PRone.csproj.CoreCompileInputs.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\obj\Debug\PRone.csproj.CopyComplete
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\obj\Debug\PRone.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\obj\Debug\PRone.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\bin\Debug\PRone.dll.config
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\bin\Debug\Mono.Security.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\bin\Debug\NauckIT.PostgreSQLProvider.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\bin\Debug\NauckIT.PostgreSQLProvider.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\bin\Debug\Npgsql.xml
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PRone\obj\Debug\PRone.csprojAssemblyReference.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\bin\Debug\PRone.dll.config
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\bin\Debug\PRone.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\bin\Debug\PRone.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\bin\Debug\Mono.Security.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\bin\Debug\NauckIT.PostgreSQLProvider.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\bin\Debug\Npgsql.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\bin\Debug\NauckIT.PostgreSQLProvider.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\bin\Debug\Npgsql.xml
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\obj\Debug\PRone.csprojAssemblyReference.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\obj\Debug\PRone.csproj.CoreCompileInputs.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\obj\Debug\PRone.csproj.CopyComplete
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\obj\Debug\PRone.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200902 - Updated Oracle 64bit version\PRone\obj\Debug\PRone.pdb

@@ -1,0 +1,47 @@
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PdrUserControl\bin\Debug\PdrUserControl.dll
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PdrUserControl\bin\Debug\PdrUserControl.pdb
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PdrUserControl\obj\Debug\PdrUserControl.csprojResolveAssemblyReference.cache
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PdrUserControl\obj\Debug\PdrUserControl.UCNumericKeypad.resources
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PdrUserControl\obj\Debug\PdrUserControl.csproj.GenerateResource.Cache
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PdrUserControl\obj\Debug\PdrUserControl.dll
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170610\PdrUserControl\obj\Debug\PdrUserControl.pdb
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170617\PdrUserControl\bin\Debug\PdrUserControl.dll
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170617\PdrUserControl\bin\Debug\PdrUserControl.pdb
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170617\PdrUserControl\obj\Debug\PdrUserControl.csprojResolveAssemblyReference.cache
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170617\PdrUserControl\obj\Debug\PdrUserControl.UCNumericKeypad.resources
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170617\PdrUserControl\obj\Debug\PdrUserControl.csproj.GenerateResource.Cache
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170617\PdrUserControl\obj\Debug\PdrUserControl.dll
+D:\Users\non46\Software\My_Code\VS15\CLASS\PRone_20170617\PdrUserControl\obj\Debug\PdrUserControl.pdb
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PdrUserControl\bin\Debug\PdrUserControl.dll
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PdrUserControl\bin\Debug\PdrUserControl.pdb
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PdrUserControl\obj\Debug\PdrUserControl.csprojResolveAssemblyReference.cache
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PdrUserControl\obj\Debug\PdrUserControl.UCNumericKeypad.resources
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PdrUserControl\obj\Debug\PdrUserControl.csproj.GenerateResource.Cache
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PdrUserControl\obj\Debug\PdrUserControl.dll
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS15\CLASS\PRone_20171014\PdrUserControl\obj\Debug\PdrUserControl.pdb
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PdrUserControl\bin\Debug\PdrUserControl.dll
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PdrUserControl\bin\Debug\PdrUserControl.pdb
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PdrUserControl\obj\Debug\PdrUserControl.csprojResolveAssemblyReference.cache
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PdrUserControl\obj\Debug\PdrUserControl.UCNumericKeypad.resources
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PdrUserControl\obj\Debug\PdrUserControl.csproj.GenerateResource.Cache
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PdrUserControl\obj\Debug\PdrUserControl.dll
+C:\Users\non46\Google Drive\IMP\Banglalink\My_Code\VS17\CLASS\PRone_20180102 - Added MySQL Connection\PdrUserControl\obj\Debug\PdrUserControl.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PdrUserControl\bin\Debug\PdrUserControl.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PdrUserControl\bin\Debug\PdrUserControl.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PdrUserControl\obj\Debug\PdrUserControl.csprojAssemblyReference.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PdrUserControl\obj\Debug\PdrUserControl.UCNumericKeypad.resources
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PdrUserControl\obj\Debug\PdrUserControl.csproj.GenerateResource.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PdrUserControl\obj\Debug\PdrUserControl.csproj.CoreCompileInputs.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PdrUserControl\obj\Debug\PdrUserControl.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2017\CLASS\PRone_20190515\PdrUserControl\obj\Debug\PdrUserControl.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PdrUserControl\bin\Debug\PdrUserControl.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PdrUserControl\bin\Debug\PdrUserControl.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PdrUserControl\bin\Debug\System.Threading.Tasks.NET35.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PdrUserControl\bin\Debug\System.Threading.Tasks.NET35.pdb
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PdrUserControl\obj\Debug\PdrUserControl.csprojAssemblyReference.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PdrUserControl\obj\Debug\PdrUserControl.UCNumericKeypad.resources
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PdrUserControl\obj\Debug\PdrUserControl.csproj.GenerateResource.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PdrUserControl\obj\Debug\PdrUserControl.csproj.CoreCompileInputs.cache
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PdrUserControl\obj\Debug\PdrUserControl.csproj.CopyComplete
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PdrUserControl\obj\Debug\PdrUserControl.dll
+C:\Users\non46\Google Drive\Rone\Projects\VS2019\CLASS\PRone_20200510 - Added Postgres Connection\PdrUserControl\obj\Debug\PdrUserControl.pdb
